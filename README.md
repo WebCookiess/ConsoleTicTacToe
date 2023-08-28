@@ -1,2 +1,2 @@
 # ConsoleTicTacToe
-Whether you're looking to relive the timeless fun of the game or introduce it to a new generation, this C++ version offers an accessible and enjoyable way to engage in a friendly competition of wits. So, gather a friend and embark on a journey of tactical moves and thrilling victories in this classic game of Tic-Tac-Toe."
+This is a simple command-line implementation of the classic Tic-Tac-Toe game in C++, created using Visual Studio. The game allows two players to take turns and aims to determine the winner based on the traditional rules of the game.
